@@ -2,5 +2,6 @@ __pycache__
 *.py[oc]
 venv
 db.sqlite3
+geckodriver.log
 .*
 !.gitignore
